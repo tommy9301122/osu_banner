@@ -19,6 +19,6 @@
 ### 死が二人を結ぶまで
 [![](https://github.com/tommy9301122/osu_banner/blob/main/%E6%AD%BB%E3%81%8C%E4%BA%8C%E4%BA%BA%E3%82%92%E7%B5%90%E3%81%B6%E3%81%BE%E3%81%A7.png)](https://osu.ppy.sh/beatmapsets/1286679)
 ### 有頂天ドリーマーズ
-[![](https://github.com/tommy9301122/osu_banner/blob/main/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%A2%E6%83%B3%E5%AE%B6.gif)(https://osu.ppy.sh/beatmapsets/1550315#osu/3168015)]
+[![](https://github.com/tommy9301122/osu_banner/blob/main/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%A2%E6%83%B3%E5%AE%B6.gif)](https://osu.ppy.sh/beatmapsets/1550315#osu/3168015)
 ### Eending
-[![](https://github.com/tommy9301122/osu_banner/blob/main/Ending.png)(https://osu.ppy.sh/beatmapsets/1666709#osu/3403175)]
+[![](https://github.com/tommy9301122/osu_banner/blob/main/Ending.png)](https://osu.ppy.sh/beatmapsets/1666709#osu/3403175)
