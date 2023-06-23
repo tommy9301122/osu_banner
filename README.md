@@ -22,3 +22,5 @@
 [![](https://github.com/tommy9301122/osu_banner/blob/main/%E6%9C%89%E9%A0%82%E5%A4%A9%E5%A4%A2%E6%83%B3%E5%AE%B6.gif)](https://osu.ppy.sh/beatmapsets/1550315#osu/3168015)
 ### Eending
 [![](https://github.com/tommy9301122/osu_banner/blob/main/Ending.png)](https://osu.ppy.sh/beatmapsets/1666709#osu/3403175)
+### 探して！Future
+[![](https://github.com/tommy9301122/osu_banner/blob/main/Sagashite!%20Future.jpg)](https://osu.ppy.sh/beatmapsets/1994524#osu/4148673)
