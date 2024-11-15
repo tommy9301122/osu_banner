@@ -28,3 +28,5 @@
 [![](https://github.com/tommy9301122/osu_banner/blob/main/%E8%8A%B1%E3%81%AE%E5%A1%94.gif)](https://osu.ppy.sh/beatmapsets/2020705#osu/4208219)
 ### アンサンブル
 [![](https://github.com/tommy9301122/osu_banner/blob/main/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB.png)](https://osu.ppy.sh/beatmapsets/2038918#osu/4252811)
+### 秒針少女
+[![](https://github.com/tommy9301122/osu_banner/blob/main/%E7%A7%92%E9%87%9D%E5%B0%91%E5%A5%B3.png)](https://osu.ppy.sh/beatmapsets/2235236#osu/4748210)
